@@ -1,0 +1,1 @@
+Replace YOUR_GUIDE_LINK_HERE in index.html with the final public guide URL. Upload index.html and gld-logo.png together to GitHub Pages. Test on iPhone and Samsung before creating the final A6 QR.
